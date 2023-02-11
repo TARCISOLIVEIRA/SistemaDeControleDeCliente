@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\Atividade\\Atividade.csproj": {}
+    "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\Atividade\\Atividade.csproj": {
+    "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\Atividade\\Atividade.csproj",
+        "projectPath": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\NevesRibeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\Atividade\\obj\\",
+        "outputPath": "C:\\Users\\NevesRibeiro\\Desktop\\_Senai\\SistemaDeControleDeCliente\\atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NevesRibeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"

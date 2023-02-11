@@ -1,0 +1,15 @@
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\NevesRibeiro\Desktop\_Senai\SistemaDeControleDeCliente\atividade\obj\Debug\net7.0\ref\Atividade.dll
