@@ -21,11 +21,11 @@ namespace Atividade
           Pessoa_Fisica pf  = new Pessoa_Fisica();
            pf.nome = var_nome;
            pf.endereco = var_endereco;
-           Console.WriteLine ("Informar o CPF");
+           Console.WriteLine ("Informar o CPF.......:");
            pf.cpf = Console.ReadLine();
-           Console.WriteLine ("Informe o RG");
+           Console.WriteLine ("Informe o RG.......:");
            pf.rg = Console.ReadLine();
-           Console.WriteLine("Informar o valor de compra:");
+           Console.WriteLine("Informar o valor de compra.........:");
            val_pag = float.Parse(Console.ReadLine());
            pf.Pagar_Imposto (val_pag);
            Console.WriteLine("---------Pessoa Fisica_____");
